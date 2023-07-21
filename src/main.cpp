@@ -5,7 +5,6 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    //hren
     QString str;
 
     File file("1.txt");
